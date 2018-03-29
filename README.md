@@ -1,6 +1,6 @@
 # SIFT-Detection-and-Rotation
 
-This is a simple python writen program. You will be able to detect objects and rotate the image at the center of the object so that the detected object will end up horizontal.
+This is a simple python program. You will be able to detect objects and rotate the image at the center of the object so that the detected object will end up horizontal.
 
 
 ## Getting Started
